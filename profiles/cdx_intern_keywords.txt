@@ -1,0 +1,10 @@
+python
+data annotation
+data quality
+machine learning
+model evaluation
+prompt
+testing
+debugging
+automation
+report
